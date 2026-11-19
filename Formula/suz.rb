@@ -1,8 +1,8 @@
 class Suz < Formula
   desc "Statically typed programming language with checked arithmetic"
   homepage "https://github.com/TappoyGK/suz"
-  url "https://github.com/TappoyGK/suz/releases/download/v0.3.4/suz-macos-arm64.tar.gz"
-  sha256 "a284f7ae7a9543384d4f98efb3bb2ea7e6076aaa0b54f3e073aa29cc307d3653"
+  url "https://github.com/TappoyGK/suz/releases/download/v0.3.5/suz-macos-arm64.tar.gz"
+  sha256 "35690c5f0f9ae65532133cfc830e5a46e0219c0a332384d98406ba731a4cc108"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on arch: :arm64
